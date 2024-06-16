@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+*.log
+*.tmp
+*.tmp.*
+.env
+*.log.*
+npm-debug.log*
+yarn-error.log
+*.tgz
+*.gz
+.DS_Store
